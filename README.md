@@ -5,8 +5,11 @@ This repository contains the final deliverables for a comprehensive Security Ope
 
 ### Included Deliverables
 1.**[01] Alert Management & Triage:** Demonstrates alert prioritization (CVSS scoring), MITRE ATT&CK mapping, and OSINT validation using VirusTotal for a highly malicious WannaCry file hash.
+
 2.**[02] Incident Response Documentation:** Outlines a 7-step Phishing SOP and a detailed Post-Mortem summary following a simulated server breach.
+
 3.**[03] Evidence Preservation:** Contains cryptographic chain-of-custody hashes (SHA256) and volatile network data captures (`ss -antp`) taken directly from the compromised Linux endpoint.
+
 4.**[04] Capstone Incident Report:** An executive-level technical timeline and stakeholder briefing documenting the complete lifecycle of a critical VSFTPD v2.3.4 backdoor exploitation.
 
 ### Tools & Technologies Utilized
